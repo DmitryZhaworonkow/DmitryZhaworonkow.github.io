@@ -1,0 +1,5 @@
+baseURL = 'https://DmitryZhaworonkow.github.io'
+languageCode = 'en-us'
+title = 'Цветы'
+theme = 'ananke'
+publishDir="docs"
