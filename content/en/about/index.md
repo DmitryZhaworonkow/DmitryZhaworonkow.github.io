@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+title: "О нас"
+description: "Несколько лет назад, посещая или, вернее, обшаривая Нотр-Дам, автор этой книги нашел в темном уголке одной из башен следующее слово, выгравированное от руки на стене: — АНАНКЕ."
 featured_image: '/images/Victor_Hugo-Hunchback.jpg'
 menu:
   main:
@@ -8,4 +8,4 @@ menu:
 ---
 {{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+«Горбун из Нотр-Дама» (по-французски: «Нотр-Дам де Пари») — французский романтический/готический роман Виктора Гюго, опубликованный в 1831 году. Оригинальное французское название относится к собору Нотр-Дам, на котором сосредоточена история. Английский переводчик Фредерик Шоберл назвал роман «Горбун из Нотр-Дама» в 1833 году, потому что в то время готические романы были более популярны в Англии, чем любовные романы. Действие истории разворачивается в Париже, Франция, в эпоху позднего средневековья, во времена правления Людовика XI.

@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Контакты
 featured_image: ''
 omit_header_text: true
 description: We'd love to hear from you
@@ -9,6 +9,6 @@ menu: main
 ---
 
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+Это пример пользовательского короткого кода, который вы можете поместить прямо в свой контент. Вам нужно будет добавить действие формы в шорткод, чтобы оно заработало. Посетите [Formspree](https://formspree.io/), чтобы получить простой сервис свободной формы.
 
 {{< form-contact action="https://example.com"  >}}

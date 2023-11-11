@@ -2,16 +2,52 @@
 date: 2017-04-13T11:15:58-04:00
 description: "Quasimodo"
 featured_image: ""
-tags: []
-title: "Chapter V: Quasimodo"
+tags: ["scene"]
+title: "Нарцисс"
 ---
 
-In the twinkling of an eye, all was ready to execute Coppenole’s idea. Bourgeois, scholars and law clerks all set to work. The little chapel situated opposite the marble table was selected for the scene of the grinning match. A pane broken in the pretty rose window above the door, left free a circle of stone through which it was agreed that the competitors should thrust their heads. In order to reach it, it was only necessary to mount upon a couple of hogsheads, which had been produced from I know not where, and perched one upon the other, after a fashion. It was settled that each candidate, man or woman (for it was possible to choose a female pope), should, for the sake of leaving the impression of his grimace fresh and complete, cover his face and remain concealed in the chapel until the moment of his appearance. In less than an instant, the chapel was crowded with competitors, upon whom the door was then closed.
+История Нарцисса- легенды и традиции, связанные с нарциссом
 
-Coppenole, from his post, ordered all, directed all, arranged all. During the uproar, the cardinal, no less abashed than Gringoire, had retired with all his suite, under the pretext of business and vespers, without the crowd which his arrival had so deeply stirred being in the least moved by his departure. Guillaume Rym was the only one who noticed his eminence’s discomfiture. The attention of the populace, like the sun, pursued its revolution; having set out from one end of the hall, and halted for a space in the middle, it had now reached the other end. The marble table, the brocaded gallery had each had their day; it was now the turn of the chapel of Louis XI. Henceforth, the field was open to all folly. There was no one there now, but the Flemings and the rabble.
+Изящный цветок окутан шлейфом самых разнообразных мифов. Так, еще издревле в Греции сложилась легенда о самовлюбленном юноше по 
+имени Нарцисс.
 
-The grimaces began. The first face which appeared at the aperture, with eyelids turned up to the reds, a mouth open like a maw, and a brow wrinkled like our hussar boots of the Empire, evoked such an inextinguishable peal of laughter that Homer would have taken all these louts for gods. Nevertheless, the grand hall was anything but Olympus, and Gringoire’s poor Jupiter knew it better than any one else. A second and third grimace followed, then another and another; and the laughter and transports of delight went on increasing. There was in this spectacle, a peculiar power of intoxication and fascination, of which it would be difficult to convey to the reader of our day and our salons any idea.
+Легенда о Нарциссе, гласит, что Нарцисс был молодым человеком, сын могущественного бога рек Кефисса и прекрасной нимфы Лириоэссы, 
+который жестоко отверг возвышенные чувства со стороны нимфы Эхо. Расстроенная девушка так тяжело переживала равнодушие возлюбленного, 
+что постепенно растворилась в небытие, успев перед исчезновением наложить на Нарцисса проклятье: отныне пусть ни один объект его 
+симпатии не проявит к гордому юноше той же любви. С тех пор не одна женщина пыталась завоевать сердце своенравного красавца, но все 
+было тщетно. А увидев однажды собственное отражение на водной глади, молодой человек влюбился в него без памяти. Терзаясь 
+безответностью и безнадежностью, Нарцисс вскоре умер от неизбывной тоски. В память об эгоистичном юноше на земле расцвел изящный 
+цветок, источающий тонкий аромат, а его венчик, склоненный книзу, словно воплощает в себе стремление еще раз полюбоваться собой на
+ поверхности воды. По этой причине древние греки причисляли красивое, но печальное растение к цветам скорби, призванным хранить 
+ память обо всех погибших и умерших.
 
-Let the reader picture to himself a series of visages presenting successively all geometrical forms, from the triangle to the trapezium, from the cone to the polyhedron; all human expressions, from wrath to lewdness; all ages, from the wrinkles of the new-born babe to the wrinkles of the aged and dying; all religious phantasmagories, from Faun to Beelzebub; all animal profiles, from the maw to the beak, from the jowl to the muzzle. Let the reader imagine all these grotesque figures of the Pont Neuf, those nightmares petrified beneath the hand of Germain Pilon, assuming life and breath, and coming in turn to stare you in the face with burning eyes; all the masks of the Carnival of Venice passing in succession before your glass,—in a word, a human kaleidoscope.
+Кстати, известный художник Карл Брюллов даже посвятил этой легенде одну из своих картин — полотно «Нарцисс, смотрящий на воду». 
+Вообще со временем имя несчастного Нарцисса стало нарицательным: повелась традиция называть им любого себялюбца.
 
-The orgy grew more and more Flemish. Teniers could have given but a very imperfect idea of it. Let the reader picture to himself in bacchanal form, Salvator Rosa’s battle. There were no longer either scholars or ambassadors or bourgeois or men or women; there was no longer any Clopin Trouillefou, nor Gilles Lecornu, nor Marie Quatrelivres, nor Robin Poussepain. All was universal license. The grand hall was no longer anything but a vast furnace of effrontry and joviality, where every mouth was a cry, every individual a posture; everything shouted and howled. The strange visages which came, in turn, to gnash their teeth in the rose window, were like so many brands cast into the brazier; and from the whole of this effervescing crowd, there escaped, as from a furnace, a sharp, piercing, stinging noise, hissing like the wings of a gnat.
+Древние римляне считали нарцисс эмблемой победы: венками, сделанными из желтых сортов цветка, чествовали вернувшихся с побоищ 
+храбрых воинов.
+
+В Италии прекрасный цветок с давних времен признают воплощением страсти. Даже в современном мире нарцисс, подаренный пылким итальянцем,
+ по-прежнему выражает признание в пламенной любви.
+
+Красноречивым знаком нарцисс был и в Пруссии. Бытовал интересный обычай: перед тем, как выйти замуж и уйти из отчего дома, девушка 
+выкапывала из сада луковичку нарцисса, забирая ее с собой. Высадив цветок в собственном доме, новоиспеченная хозяюшка холила его и 
+лелеяла. Нарцисс считался верным хранителем домашнего очага и любви между супругами, символом вечного семейного счастья и благополучия.
+
+В Швейцарии праздник нарциссов продолжался два дня подряд. Улицы буквально утопали в душистых цветах: украшались стены зданий, окна, 
+двери и витрины. Красочные гирлянды протягивали между столбами, и город насквозь пропитывался свежим ароматом. Мужчины закрепляли 
+нарциссы в петлицах, женщины же мастерили себе милые веночки. И, конечно же, устраивались разудалые народные гуляния.
+
+Многие страны с наступлением каждой весны организуют выставки и шумные празднества, посвященные утонченным нарциссам. А в Китае без 
+этих душистых цветов просто немыслима встреча Нового года: ими не только в изобилии украшают дома, но и дополняют торжественное 
+убранство алтарей богов.
+
+Ну а любовь к нарциссам со стороны англичан просто не имеет границ! На просторах Великобритании нежный цветок ценится даже больше, 
+чем традиционная «царица» — роза. Выведению новых разновидностей нарциссов здесь посвящается масса исследований.
+
+На протяжении многих веков нарцисс дарил окружающим не только эстетическое наслаждение, но несравнимую пользу. Его специально 
+выращивали (и продолжают по сей день) для получения ценного эфирного масла. Этот компонент находит широкое применение в парфюмерной 
+промышленности.
+
+Некоторые народы используют чудо-цветок в лекарственных целях: он способствует быстрому заживлению ран. Также луковица нарцисса играет 
+роль оберега от всякого недуга – ее часто кладут в карманы ребятишкам.
