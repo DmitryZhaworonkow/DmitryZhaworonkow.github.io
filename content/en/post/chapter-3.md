@@ -1,6 +1,6 @@
 ---
 date: 2023-11-10T11:13:32-04:00
-description: "Monsieur the Cardinal"
+description: "Гвоздика"
 featured_image: ""
 tags: ["scene"]
 title: "Гвоздика"

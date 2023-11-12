@@ -1,6 +1,6 @@
 ---
 date: 2017-04-13T11:15:58-04:00
-description: "Quasimodo"
+description: "Нарцисс"
 featured_image: ""
 tags: ["scene"]
 title: "Нарцисс"
