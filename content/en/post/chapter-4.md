@@ -1,6 +1,6 @@
 ---
 date: 2023-11-10T11:14:48-04:00
-description: "Василек"
+description: "Гербера"
 featured_image: ""
 tags: ["scene"]
 title: "Гербера"
